@@ -5,12 +5,16 @@
 <a href="https://linkedin.com/in/dboguslawski" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/" target="_blank" rel="noopener noreferrer">
+
+<!--
+ <a href="https://dev.to/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="devto" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/damian.boguslawski.378" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
 </a>
+-->
+
 <a href="https://github.com/YourUsername/YourRepositoryName/raw/main/cv.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Download%20CV-8B22A6?&style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" style="margin-bottom: 5px;" />
 </a>
